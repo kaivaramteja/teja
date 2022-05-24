@@ -1,2 +1,2 @@
 hy this is teja 
-echo ""welcome teja"
+echo ""welcome teja this is github"
